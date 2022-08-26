@@ -2,7 +2,7 @@
 - __Date of completetion:__ 26th August 2022;
 - __Technology Used:__ Tailwind CSS;
 - __Time Taken:__ 14 Hours;
-- __Deployed Link of Project:__ [Click here!]()
+- __Deployed Link of Project:__ [Click here!](https://rode-clone2.netlify.app/).
 
 
 This is my second project based on Tailwind CSS  (after the [Paytm Clone](https://github.com/Sduttt/paytm-tailwind)). Ihave tried to make it responsive, though it may not look great in all kind of devices, because I have used only 1 breakpoint to test responsiveness. Here are the screenshots of the webpage in below and above the breakpoint: 
